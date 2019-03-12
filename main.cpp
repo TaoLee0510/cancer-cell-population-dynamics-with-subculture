@@ -45,9 +45,6 @@ using namespace blitz;
 
 int main(int argc, char *argv[])
 {
-//int main()
-//{
-    
     int N0=atoi(argv[1]);
     int R=atoi(argv[2]);
     double mix_ratio_initial=atof(argv[3]);
@@ -61,23 +58,6 @@ int main(int argc, char *argv[])
     double deltah=atof(argv[11]);
     int passage=atof(argv[12]);
     int subculture_time=atof(argv[13]);
-    
-  
-//
-//    int time_interval=72;
-//    int passage=0;//////////1:yes; 0:no.
-//    int N0=500;
-//    int R=1000;
-//    double mix_ratio_initial=0.9;
-//    float alpha_begin=0;
-//    float alpha_max=4;
-//    float alpha_interval=0.5;
-//    float beta_begin=0;
-//    float beta_max=2;
-//    float beta_interval=0.5;
-//    double deltah=0.05;
-    
-//    int subculture_time=30;
     int carrying_capacity_r=N0*2;
     int carrying_capacity_K=1.147*carrying_capacity_r;
     double death_time_range=36;
