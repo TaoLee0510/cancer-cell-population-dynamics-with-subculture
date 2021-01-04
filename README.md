@@ -8,5 +8,5 @@ Note:
 To complie the codes, the blitz++ and gsl are required. 
 The gsl may NOT compatible with Windows system, please switch to MacOS or a Linux based system.
 
-Need help? Contact me via e-mail: aeolia.zafiro@gmail.com
+Need help? Contact me via e-mail: taolee.lit@gmail.com
 
