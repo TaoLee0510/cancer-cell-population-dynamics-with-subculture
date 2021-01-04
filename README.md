@@ -10,3 +10,6 @@ The gsl may NOT compatible with Windows system, please switch to MacOS or a Linu
 
 Need help? Contact me via e-mail: taolee.lit@gmail.com
 
+Cite me: https://doi.org/10.1093/nsr/nwaa124
+
+
